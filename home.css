@@ -1,0 +1,30 @@
+body{
+    background-color: yellow;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+#i1{
+    height:250px;
+    background-color: black;
+    margin-left: 400px;
+    color:white;
+}
+#i2{
+    margin-bottom: 20px;
+    margin-left: 400px;
+    background-color: black;
+    color:white;
+}
+.sayani{
+    width:100px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+table{
+    color:black;
+    position: relative;
+    top:-250px;
+    left:800px;
+}
